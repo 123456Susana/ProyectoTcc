@@ -14,7 +14,8 @@ align-items: center;
     height: 350px;
     width: 50%;
     padding: 10px, 5px;
-    color:white;;
+    color:white;
+    background-size: cover;
 
 }
 
@@ -23,6 +24,7 @@ align-items: center;
     height: 350px;
     width: 50%;
     padding: 10px, 5px;
+    background-size: cover;
 }
 
 a{
@@ -45,6 +47,3 @@ right: 5px;
 
 }
 
-div{
-
-}
